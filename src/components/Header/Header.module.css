@@ -1,0 +1,12 @@
+.logo{
+    font-size: 2rem;
+    font-family: Arial;
+    font-weight: normal;
+    color: blue;
+}
+.header{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}

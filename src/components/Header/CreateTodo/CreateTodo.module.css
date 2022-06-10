@@ -1,0 +1,36 @@
+.buttonSend{
+    font-family: Arial;
+    background-color: blue;
+    border-radius: 0 0.75rem 0.75rem 0;
+    border: 1px solid blue;
+    color: white;
+    font-size: 1.5rem;
+    padding: 0.25rem;
+    box-sizing: border-box;
+}
+.inputTodo{
+    outline: none;
+    border-radius: 0.75rem 0 0 0.75rem;
+    border: 1px solid blue;
+    font-size: 1.5rem;
+    padding: 0.25rem;
+    box-sizing: border-box;
+}
+.errorMessage{
+    position: absolute;
+    top: 2rem;
+    left: 2rem;
+    font-size: 1rem;
+    color: red;
+    font-family: Arial;
+    font-weight: normal;
+}
+.inputContainer{
+    position: relative;
+}
+.container{
+    display: flex;
+    padding: 1.25rem;
+    justify-content: space-between;
+    align-items: center;
+}

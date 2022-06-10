@@ -1,0 +1,15 @@
+.todoContent{
+
+}
+.todoButtonDelete{
+
+}
+.todo{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    border: 1px solid blue;
+    border-radius: 0.75rem;
+    padding: 0.5rem 1rem;
+    box-sizing: border-box;
+}
